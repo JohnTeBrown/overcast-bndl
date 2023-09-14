@@ -1,0 +1,45 @@
+= Overcast Bndl
+:icons: font
+:source-highlighter: pygments
+:toc:
+
+== About Overcast Bndl
+
+Overcast Bndl is a comprehensive repository designed to collect, manage, and share various forms of data, including public data, gathered information, and other valuable collections. It serves as a hub for:
+
+- Vulnerability Reports 🛡️
+- Malware Decompiles and Breakdowns 🦠
+- Error Logs 📝
+- Developer Community News 🌐
+
+Pull requests are welcome to add structured data in formats such as:
+
+- AsciiDoc
+- reStructuredText
+- Markdown
+- UNOBFUSCATED MDX (to be scrubbed for security)
+
+=== Repository Structure
+
+The repository is organized to facilitate easy navigation and contribution:
+
+|=== | Directory | Description
+| data/vulnerabilities | Store vulnerability reports | 🛠️
+| data/malware | Share malware decompiles and analysis | 🦠
+| logs/errors | Maintain error logs | 📄
+| news/dev-community | Contribute developer community news | 🌐
+
+=== Contributing
+
+Feel free to contribute by opening pull requests with your structured data in one of the supported formats. Ensure that UNOBFUSCATED MDX files are thoroughly reviewed for security before submission.
+
+=== Security Note
+
+Security is a top priority. We take precautions to prevent unauthorized access and ensure the safety of our data.
+
+Let's work together to build a valuable resource for the community!
+
+[Visit Overcast Bndl on GitHub](https://github.com/JohnTeBrown/overcast-bndl)
+
+image::github.png[]
+
