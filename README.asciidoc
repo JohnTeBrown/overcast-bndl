@@ -41,5 +41,4 @@ Let's work together to build a valuable resource for the community!
 
 [Visit Overcast Bndl on GitHub](https://github.com/JohnTeBrown/overcast-bndl)
 
-image::github.png[]
-
+image::https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
